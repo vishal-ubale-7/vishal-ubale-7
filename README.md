@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishal-ubale-7&label=Profile%20views&color=0e75b6&style=flat" alt="vishal-ubale-7" /> </p>
 
-- 🌱 I’m currently learning **SpringSecurity ,API Testing ,RestFull AIP**
+- 🌱 I’m currently learning **SpringSecurity ,API Testing ,RestFull API**
 
 - 👯 I’m looking to collaborate on **some good open source project**
 
