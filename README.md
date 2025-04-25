@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishal-ubale-7&label=Profile%20views&color=0e75b6&style=flat" alt="vishal-ubale-7" /> </p>
 
-- 🌱 I’m currently learning **SpringSecurity ,API Testing ,RestFull API**
+- 🌱 I’m currently learning **Heroku, API Testing ,RestFull API**
 
 - 👯 I’m looking to collaborate on **some good open source project**
 
-- 💬 Ask me about **Hibernate, Spring, Springboot,**
+- 💬 Ask me about **Hibernate, Spring, Springboot, Spring Security**
 
 - 📫 How to reach me **ubalevisha2019@gmail.com**
 
