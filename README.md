@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Heroku, API Testing ,RestFull API**
 
-- 👯 I’m looking to collaborate on **some good open source project**
+- 👯 I’m looking to collaborate on **Some good open source project**
 
 - 💬 Ask me about **Hibernate, Spring, Springboot, Spring Security**
 
